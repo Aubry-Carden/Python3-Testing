@@ -95,4 +95,4 @@ def outcomeCheck(outcome):
 
 word = gameStart()
 outcome = gameMain(word)
-outcome(outcome)
+outcomeCheck(outcome)
